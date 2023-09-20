@@ -5,15 +5,15 @@
 
 ## IDL Path
 
-`utils/idl`
+`src/utils/idl`
 
 ## Wallet Adapter Path
 
-`utils/Wallet.tsx`
+`src/utils/Wallet.tsx`
 
 ## Store Path
 
-`utils/Store.tsx`
+`src/utils/Store.tsx`
 React Store uses useContext to allow all children components to access values in Store.
 
 ### Store Breakdown
